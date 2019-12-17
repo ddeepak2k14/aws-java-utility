@@ -14,12 +14,12 @@ public class AmazonSESExample {
 
     // Replace sender@example.com with your "From" address.
     // This address must be verified from aws console .
-    static final String FROM = "deepu9220@gmail.com";
+    static final String FROM = "from@gmail.com";
     static final String FROMNAME = "Deepak";
 	
     // Replace recipient@example.com with a "To" address. If your account 
     // is still in the sandbox, this address must be verified.
-    static final String TO = "ddeepak2k14@gmail.com";
+    static final String TO = "to@gmail.com";
     
     // Replace smtp_username with your Amazon SES SMTP user name.
     static final String SMTP_USERNAME = "smtp_user_name";
